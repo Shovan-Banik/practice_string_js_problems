@@ -44,10 +44,16 @@
 // var s=Math.round(Math.random()*100);
 //     console.log(s);
 
-for(var i=0; i<6;i++){
-    var s=Math.round(Math.random()*6);
-    console.log(s);
-}
+// for(var i=0; i<6;i++){
+//     var s=Math.round(Math.random()*6);
+//     console.log(s);
+// }
+
+var a=45;
+var b=23;
+var c=89;
+console.log(Math.max(a,b,c));
+console.log(Math.min(a,b,c));
 
 
 
