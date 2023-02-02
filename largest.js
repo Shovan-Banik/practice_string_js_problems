@@ -6,6 +6,7 @@ function findMax(arr){
         let value=arr[i];
         if(value>largest){
             largest=value;
+            largest=largest;
         }
     }
     return largest;
